@@ -1,0 +1,12 @@
+
+__pycache__/
+.env
+data_base/__pycache__
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
